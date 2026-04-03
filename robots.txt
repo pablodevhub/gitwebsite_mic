@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tuodominio.com/sitemap-index.xml
+Sitemap: https://mic.pphost.com.de/sitemap-index.xml
